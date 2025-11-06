@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mykola</h1>
-<h3 align="center">🌍  I am a Front-End | Full-Stack | Mobile Developer based in Kharkiv, Ukraine.</h3>
+<h3 align="center">🌍  I am a Front-End | Full-Stack | Mobile Developer based in Ukraine.</h3>
 
 - 📫 How to reach me **ogonick1@gmail.com**
 
