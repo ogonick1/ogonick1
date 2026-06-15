@@ -1,6 +1,6 @@
 <!-- ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=800&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mykola;Front-End+%7C+Full-Stack+%7C+Mobile+Developer;From+Ukraine+with+%F0%9F%92%99+for+code" alt="Animated typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=800&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mykola;Front-End+%7C+Full-Stack+%7C+Developer;From+Ukraine+with+%F0%9F%92%99+for+code" alt="Animated typing banner" />
 </p>
 
 <h3 align="center">🚀 Front-End | Full-Stack Developer from Ukraine 🇺🇦</h3>
